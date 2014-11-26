@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Open Last Activity From Notification Example</string>
+    <string name="btn_create_notification">Create Notification</string>
+    <string name="btn_launch_activity_two">Launch Activity Two</string>
+    <string name="label_activity_one">Activity One</string>
+    <string name="label_activity_two">Activity Two</string>
+    <string name="notification_body">You\'ve been notified of something important.</string>
+    <string name="notification_ticker">The ticker text.</string>
+    <string name="notification_title">A Notification!</string>
+    <string name="toast_notification_created">Notification Created</string>
+
+</resources>
